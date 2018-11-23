@@ -1,6 +1,6 @@
 # awesome-lidar
 
-A curated list of awesome Point Cloud Processing Resources, Libraries, Software. Inspired by [awesome-sar](https://github.com/RadarCODE/awesome-sar)
+A curated list of awesome Point Cloud Processing Resources, Libraries, Software. Inspired by [awesome-sar](https://github.com/RadarCODE/awesome-sar) and forked from [awesome-point-cloud-processing] (https://github.com/Rmmolero/awesome-point-cloud-processing.
 
 **Please feel free to add more resources (pull requests)**
 
